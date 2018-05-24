@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_main">main组件</string>
+
+    <string name="app_exit_hint">再按一次退出程序</string>
+    <string name="title_activity_fragment_module">Fragment组件化</string>
+
+</resources>

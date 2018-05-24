@@ -1,0 +1,1 @@
+apply from: rootProject.file('script/library_work.gradle')

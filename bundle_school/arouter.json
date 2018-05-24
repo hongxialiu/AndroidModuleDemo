@@ -1,0 +1,30 @@
+{
+  "description": "School模块ARouter实例映射表",
+  "mapList": [
+    {
+      "activityName": "SchoolActivity",
+      "routeName": "/school/SchoolActivity",
+      "description": "学校主页",
+      "params": null
+    },
+    {
+      "activityName": "SchoolFragment",
+      "routeName": "/bundle_school/SchoolFragment",
+      "description": "学校主页fragment",
+      "params": null
+    },
+
+    {
+      "activityName": "TestActivity",
+      "routeName": "/bundle_test/TestActivity",
+      "description": "测试主页",
+      "params": [
+        {
+          "name": "username",
+          "desc": "手机号",
+          "type": "String"
+        }
+      ]
+    }
+  ]
+}

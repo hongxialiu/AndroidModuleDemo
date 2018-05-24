@@ -1,0 +1,30 @@
+{
+  "description": "Business模块ARouter实例映射表",
+  "mapList": [
+    {
+      "activityName": "BusinessCenterActivity",
+      "routeName": "/business/BusinessCenterActivity",
+      "description": "生意中心页",
+      "params": null
+    },
+    {
+      "activityName": "BusinessFragment",
+      "routeName": "/bundle_business/BusinessFragment",
+      "description": "生意主页fragment",
+      "params": null
+    },
+
+    {
+      "activityName": "TestActivity",
+      "routeName": "/bundle_test/TestActivity",
+      "description": "测试主页",
+      "params": [
+        {
+          "name": "username",
+          "desc": "手机号",
+          "type": "String"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidModuleDemo.iml" filepath="$PROJECT_DIR$/.idea/AndroidModuleDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle_app/bundle_app.iml" filepath="$PROJECT_DIR$/bundle_app/bundle_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle_business/bundle_business.iml" filepath="$PROJECT_DIR$/bundle_business/bundle_business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle_main/bundle_main.iml" filepath="$PROJECT_DIR$/bundle_main/bundle_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle_platform/bundle_platform.iml" filepath="$PROJECT_DIR$/bundle_platform/bundle_platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundle_school/bundle_school.iml" filepath="$PROJECT_DIR$/bundle_school/bundle_school.iml" />
+    </modules>
+  </component>
+</project>
