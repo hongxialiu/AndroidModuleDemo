@@ -4,7 +4,7 @@ import android.content.Context;
 
 import com.alibaba.android.arouter.facade.annotation.Route;
 import com.andrew.module.common.iservices.ISchoolModuleService;
-//@Route(path = "/bundle_school/SchoolModuleServiceImpl")
+@Route(path = "/bundle_school/SchoolModuleServiceImpl")
 public class SchoolModuleServiceImpl implements ISchoolModuleService {
     @Override
     public String sayHello(String name) {

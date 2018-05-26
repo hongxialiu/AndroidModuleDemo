@@ -43,7 +43,6 @@ dependencies {
 
     //view
     api deps.logger
-    api deps.toasty
 
     //router
     api deps.arouter_api
